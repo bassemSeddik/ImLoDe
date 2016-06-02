@@ -1,7 +1,5 @@
 # ImLoDe
-Improved Local Decisions source code for the CAD-60 and CGC-2014 datasets
-
-CAD-60 into CGC-2014:
+Improved Local Decisions source code for transformting the CAD-60 contents into CGC-2014 file formatting:
 
 Both CAD-60 (Cornell Action Dataset) and CGC-2014 (Chalearn Gesture Challenge dataset) have been widely used recently. In order to produce a common evaluation on both datasets, we present here a Matlab code allowing to transform the contents of the CAD-60 into the exact same format of CGC-2014.
 
