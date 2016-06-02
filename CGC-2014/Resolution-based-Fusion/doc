@@ -1,0 +1,2 @@
+In this case, we combine the different modality seperately for the local scale: joint+RGB+depth, then, on the global scale: again joint+RGB+depth. 
+Afterwards, the fusion of local and global results is applied
